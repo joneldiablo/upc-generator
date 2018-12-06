@@ -1,3 +1,7 @@
+# upc-generator
+
+Generate random upc codes with initial number *two*
+
 examples:
 
 230852415817

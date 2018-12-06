@@ -1,0 +1,16 @@
+{
+  "name": "gtin-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cdigit": "^2.3.1",
+    "is-upc": "^1.0.0",
+    "randexp": "^0.5.3"
+  }
+}
